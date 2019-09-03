@@ -31,6 +31,25 @@ Separating is a good idea for multiple reasons:
  * You can branch off from any flow to deliver those resources elsewhere,
    without clogging the conveyor belts
 
+## Maintain an efficient flow of resources
+
+If you are mining more of a resource then fits on one conveyor belt line, add
+a second conveyor belt line. In the late game, use a faster conveyor belt
+from the point where two inflows converge towards the final stretch towards
+to Core.
+
+If a factory has two inputs, and one input is clogged up, increase inflow of
+the other product.
+
+## Understand the special conveyor blocks
+
+ * The junction is essential in keeping lines seperate
+ * The sorter is great at unclogging a line: make it sort on the undesired
+   product, let a conveyor belt with that product branch of. In the end,
+   remove that conveyor belt
+ * The distributor allows to keep a flow even when one line is clogged up.
+   This is unlike a splitter that stops when one line is clogged up
+
 ## Mining efficieny does not increase with more conveyor belts
 
 Connecting a drill to one or multiple squares of conveyor belt: it will

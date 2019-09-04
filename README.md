@@ -59,26 +59,54 @@ always produce the same amount of resources.
 
 You may expect your mechs to go to the landing zone, but they do not. 
 
+## How to beat Survive mission
+
+Trick is to surround the landing zone at its edge with cannons.
+
+
+Do the following build order:
+
+
+
+ * Connect a first group of copper drills to your base. Build one drill, connect
+   it. Repeat until out of copper
+ * Connect a first group of lead drills to your base. Build one drill, connect
+   it. Repeat until out of copper
+ * Per landing zone path, build a copper drill and get a conveyor belt
+   going towards the edge of that path. You do not have the resources
+   to do more yet. It does allow to already gather some copper on the
+   conveyor belts
+ * Build all copper drills in the area where you gather your first copper.
+   Build one drill, connect it. Repeat until all drills are connected: you
+   will need that copper income
+ * Build all lead drills in the area where you gather your first lead.
+   Build one drill, connect it. Repeat until all drills are connected. 
+   Repeat until out of copper
+ * Continue working in the landing zone: make the conveyor belts reach
+   a point close to the edge. Build one Duo at the end of the belt. Add
+   one copper drill per path (so it can fill up)
+ * In your base, connect a first group of coal to a Graphite Press for your 
+   first graphite. Put a drill on the complete coal section.
+ * In the landing zone, add the first Small Copper walls in front of your Duo
+ * Put a Distributor directly on the conveyor belt to the Duo. 
+   Add another Duo
+ * Finish a first part of the Small Copper Wall. This should hold the first
+   wave of enemies
+
 ## How to beat Core battles
 
-Most important distinction between you and the computer opponent: the
-AI does not (re)build structures: each time you destroy something, it is
-lost forever.
+The AI does not (re)build structures: each time you destroy something, 
+it is lost forever.
 
- * At the start of the level, directly go towards the enemy core: all its
-   cannons need to load up first. During that timespan, destroy conveyor 
-   belts: one square is enough to stop the flow of resources forever
- * Save up your mechs: a line of multiple solo mechs is just cannon
-   fodder. Instead, make a mech factory produce its maximum amount of 
-   units (it will not use up resources at that point). Make a wall between
-   you and the enemy somewhere: the mechs will gather there. Open up the
-   wall to unleash them all at once
+ * Your role: do surgical strikes: destroy convey belts that supply 
+   resourses, destroy power nodes, destroy turrets.
+ * Do not attack the Core directly. Facilitate your mechs to do so by helping
+   destroy the surrounding defense. 
  * Team up with your mechs to carve out a path: build copper walls to protect
    them and yourself. 
  * You can take out a Duo from far range
  * You cannot take out a Scatter without building walls of copper between you
    and the cannon
- * Your ground mechs can take out a Scatter without danger
  * Be aware: cannons need ammo, so after after cutting supply, it will become
    harmless. Do not waste time on these cannons anymore: your mechs may
    shoot at these while passing by

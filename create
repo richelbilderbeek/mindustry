@@ -1,0 +1,4 @@
+#!/bin/bash
+
+dot -Tps dependencies.dot -o dependencies.ps
+convert dependencies.ps dependencies.png

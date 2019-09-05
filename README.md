@@ -110,3 +110,46 @@ it is lost forever.
  * Be aware: cannons need ammo, so after after cutting supply, it will become
    harmless. Do not waste time on these cannons anymore: your mechs may
    shoot at these while passing by
+
+
+## How to beat specific levels
+
+### Desolate Rift
+
+A big level, that's why you cannot zoom out on the minimap (yet?).
+
+There is one, but wide, landing zone at the north. The enemies 
+are very powerful, with bosses appearing every three or so waves. 
+Also, the enemy forces consist of mostly flyers, that can fly over a single
+line of cannons.
+
+To counter this:
+
+ * Create a stream of copper from one copper field towards you base
+ * Create a stream of lead from one lead field towards you base
+ * Create a second stream of copper from one copper field towards you base
+ * Create streams of copper to the landing zone for tens of Duo's.
+   This is the start to hold of the formidable ground forces
+ * Create streams of scrap (lead will be too valuable) 
+   to the landing zone for many Scatters behind the first lines. The enemy is
+   strong enough to be able to fly over. In the end, you may be using the
+   entire area from the landing point in the north to the first choke point
+   in the south
+ * Build up tech: graphite, silicon, metaglass, etc. You will need Thorium
+   walls to hold off the enemy
+ * Build thermal generators for electrical power. In this level, electrical
+   power is abundant. Use coal for better purposes
+ * Build up your cannons to a higher level: many many Duo's, Scatters and
+   Arcs are not enough to hold the sixth wave. Replace Arcs by Lancers,
+   as power is plentiful, but they cannot hold of air forces.
+
+
+
+
+
+### How to create the dependency graph from the `.dot` file?
+
+```
+dot -Tps dependencies.dot -o dependencies.ps
+convert dependencies.ps dependencies.png
+```

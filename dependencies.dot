@@ -1,0 +1,28 @@
+digraph G
+{
+  copper -> duo;
+  copper -> "ammo for duo";
+  copper -> mechanical drill;
+  copper -> "conveyor belt";
+  copper -> "small copper wall";
+  copper -> "big copper wall";
+  lead -> seperator;
+  lead -> "ammo for scatter";
+  coal -> graphite;
+  "graphite press" -> graphite;
+  coal -> silicon;
+  sand -> silicon;
+  "silicon smelter" -> silicon;
+  lead -> metaglass;
+  sand -> metaglass;
+  kiln -> metaglass;
+
+  graphite -> "pneumatic drill";
+  "pneumatic drill" -> titanium;
+  titanium -> "small titanium wall" 
+  titanium -> "big titanium wall"
+
+  silicon -> "small solar panel";
+
+  "small solar panel" -> electricity;
+}

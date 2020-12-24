@@ -67,14 +67,13 @@ always produce the same amount of resources.
 
 You may expect your mechs to go to the landing zone, but they do not. 
 
+:warning: Not completely true anymore 
+
 ## How to beat Survive mission
 
 Trick is to surround the landing zone at its edge with cannons.
 
-
 Do the following build order:
-
-
 
  * Connect a first group of copper drills to your base. Build one drill, connect
    it. Repeat until out of copper
@@ -119,6 +118,13 @@ it is lost forever.
    harmless. Do not waste time on these cannons anymore: your mechs may
    shoot at these while passing by
 
+## How to conter specific enemies
+
+Enemy    |Counter
+---------|-------------------------------------
+Crawler  |Build spaced copper drills near landing zones 
+Fortress |Ripple
+
 
 ## How to beat specific levels
 
@@ -131,6 +137,28 @@ are very powerful, with bosses appearing every three or so waves.
 Also, the enemy forces consist of mostly flyers, that can fly over a single
 line of cannons.
 
+Wave|Enemies                       |Counter
+----|------------------------------|----------
+1   |15 crawlers                   |Build spaced copper drills near landing zones 
+2   |9 flares, 4 zenith            |Fill up scrap bottleneck with copper drills and scatters
+3   |14 atrax                      |Lancers
+4   |4 quasar                      |Lancers
+5   |1 fortress                    |Ripples
+6   |6 spiroct                     |Lancers
+7   |18 crawlers                   |Build spaced copper drills near landing zones 
+8   |14 flares, 5 zenith           |Parallax
+9   |19 spiroct                    |Lancers
+10  |6 quasar                      |Lancers
+11  |2 fortress                    |Ripples
+12  |8 spiroct                     |Lancers
+13  |Appox 24 crawlers             |Build spaced copper drills near landing zones 
+14  |17 flares, 6 zenith           |Parallax with Force Field Generator
+15  |10 spiroct                    |Lancers
+16  |8 quasar                      |Lancers
+17  |3 fortress, 1 reign           |Meltdown
+
+
+ 
 To counter this:
 
  * Create a stream of copper from one copper field towards you base
